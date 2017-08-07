@@ -4,6 +4,12 @@ LoginScreen is a React Native powered app, it only contains a login screen as su
 
 > This UI was heavily inspired by https://www.uplabs.com/posts/login-screen-ui-interface
 
+### Screenshot
+
+[![LoginScreen](https://github.com/klujanrosas/LoginScreen/blob/master/screenshots/LoginScreen.png?raw=true)](LoginScreen)
+
+
+
 ### Usage
 
 1. Make sure you've got [Node.js](https://nodejs.org/) v4+ and Yarn(preferred) or NPM installed.
